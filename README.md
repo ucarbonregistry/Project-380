@@ -23,6 +23,7 @@ sponge iron production is ~120000 TPA. Each of the kilns generates ~25000 Nm3
 power. Steam from 04 nos. WHRB is taken to the turbine through a common header. 
 _____________
 PRIOR HISTORY
+
 The project activity has been registered as a CDM project activity as follows:
 UNFCCC CDM Title KSPCL Waste Heat to Power project, India
 
@@ -42,27 +43,34 @@ Crediting Period 31/12/2007 –
 30/12/2017 (Fixed)
 
 Prior Issuance of CDM credits
-
+___________________
 Monitoring Period: 31/12/2007-31/03/2008
+
 CERs Issued: 3506
-
+_____________________
 Monitoring Period: 01/04/2008-31/03/2009
+
 CERs Issued: 16545
-
+_________________________
 Monitoring Period: 01/04/2009-31/03/2010
+
 CERs Issued: 22905
-
+____________
 Monitoring Period: 01/04/2010-31/08/2011
+
 CERs Issued: 31705
-
+________________
 Monitoring Period: 01/09/2011-31/12/2012
-Awaiting CERs Issuance
 
+Awaiting CERs Issuance
+______________
 Monitoring Period: 01/01/2013-30/09/2016
+
 CERs Issued: 153762
-
+__________________
 Monitoring Period: 01/10/2016-30/12/2017
-Awaiting CERs Issuance
 
+Awaiting CERs Issuance
+___________________
 The project activity is seeking CoUs under the UCR program for the period 01/01/2018-31/12/2022
 and hence there is no double counting issue of carbon credits for the said vintage period.

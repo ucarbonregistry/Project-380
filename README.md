@@ -21,7 +21,43 @@ sponge iron production is ~120000 TPA. Each of the kilns generates ~25000 Nm3
 (ABC) is at ~950-1000 0C. This waste heat of flue gases is utilised in the generation of steam in
 (WHRB), which is further expanded in a single bleed-condensing turbine of 10MW to generate
 power. Steam from 04 nos. WHRB is taken to the turbine through a common header. 
+
+UCR ISSUANCE DATE: 12/02/2024
+
+TOTAL ISSUED CoUs: 214630
+______________
+Serial Number: 0001-000001-043592-UCR-CoU-IN-380-01012018-31122018
+
+Vintage Year: 2018
+
+Quantity: 43592
+______________________
+Serial Number: 0001-043593-085991-UCR-CoU-IN-380-01012019-31122019
+
+Vintage Year: 2019
+
+Quantity: 42399
 _____________
+
+Serial Number: 0001-085992-129120-UCR-CoU-IN-380-01012020-31122020
+
+Vintage Year: 2020
+
+Quantity: 43129
+_________________
+Serial Number: 0001-129121-172292-UCR-CoU-IN-380-01012021-31122021
+
+Vintage Year: 2021
+
+Quantity: 43172
+____________________
+Serial Number: 0001-172293-214630-UCR-CoU-IN-380-01012022-31122022
+
+Vintage Year: 2022
+
+Quantity: 42338
+________________________
+
 PRIOR HISTORY
 
 The project activity has been registered as a CDM project activity as follows:
